@@ -50,8 +50,8 @@ class Game:
     def start_game(self):
         self.create_game()
 
-        name = input("Enter your name: ")
         Speaker.speak("Please enter you name")
+        name = input("Enter your name: ")
         player = Player(name, self.locations["Entrance"])
 
         a = "Welcome to the Text Adventure Game, " + player.name + "!"
@@ -66,8 +66,9 @@ class Game:
         game_over = False
 
         while not game_over:
-            user_input = input("\nWhat do you want to do? ").lower()
             Speaker.speak("What do you want to do?")
+            user_input = input("\nWhat do you want to do? ").lower()
+            
 
             if user_input == "quit":
                 game_over = True
