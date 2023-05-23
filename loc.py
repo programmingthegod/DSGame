@@ -28,6 +28,7 @@ class Player:
             print(self.current_location.description)
             b = self.current_location.description
             Speaker.speak(b)
+            
         else:
             print("You cannot go in that direction.")
             Speaker.speak("You cannot go in that direction.")
