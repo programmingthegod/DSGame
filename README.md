@@ -65,4 +65,6 @@ Modules used are:
 
 
 # Sponsorships
-Anyone who found this project useful can sponsor us through my sponsor profile (www.github.com/sponsors/programmingthegod) or the sponsor button on my Github Profile.
+Anyone who found this project useful can sponsor us through my sponsor profile (www.github.com/sponsors/programmingthegod) or the sponsor button on my Github Profile. The sponsorship amount may range from $1 to $5.
+
+If you want to put your name or logo in my project you can do so by sponsoring $20 via my sponsorship profile with the link given above.
