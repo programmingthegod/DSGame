@@ -62,3 +62,7 @@ Modules used are:
 **pyttsx3**: for the speaker that speaks about your location and its description
 
 **pygame**: for applying the bgm using the pygame.mixer.music
+
+
+# Sponsorships
+Anyone who found this project useful can sponsor us through my sponsor profile (www.github.com/sponsors/programmingthegod) or the sponsor button on my Github Profile.
